@@ -13,7 +13,7 @@ public class Main {
         panel.setBackground(Color.CYAN);
 
         //3 Create components.
-        JLabel label = new JLabel("Hello World!");
+        JLabel label = new JLabel("Hello, Seaver!");
         JButton button = new JButton("Don't Touch");
         JTextField textField = new JTextField(5);
         JScrollBar scrollBar = new JScrollBar();
